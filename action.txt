@@ -5,7 +5,7 @@ APP_STORE_CONNECT_KEY_ID	你的 Key ID
 APP_STORE_CONNECT_ISSUER_ID	Issuer ID
 APP_STORE_CONNECT_API_KEY	.p8 文件内容（完整复制进去）
 APP_IDENTIFIER	com.battle.candy
-IPA_PATH	例如：./app/CandyBattleProject.ipa
+IPA_PATH	例如：./build/CandyBattleProject.ipa
 
 
 
